@@ -1,4 +1,4 @@
-module github.com/qiguanzhu/htmldiff
+module github.com/eva-nigouki/htmldiff
 
 go 1.21
 
